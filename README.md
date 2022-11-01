@@ -26,6 +26,7 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
+- 2022-10-24 now have a basic knowledge of how to use Github
 - 2022-10-18 Created Private-notes repositries, created a folder within private-notes, files within folder were index, project and permanant. 
 
 <br>
