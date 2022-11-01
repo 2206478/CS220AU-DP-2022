@@ -37,3 +37,6 @@ How to use this GitHub repository as a template for your submission, including h
 ### in week 4 
 - get to understand Github more
 - have an idea for the research question 
+
+### in week 5
+- finalise idea for reseach question
