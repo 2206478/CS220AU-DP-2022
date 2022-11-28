@@ -45,3 +45,6 @@ How to use this GitHub repository as a template for your submission, including h
 
 ### in week 7 
 - start to build my website
+
+### in week 8 
+- Add information to the website
