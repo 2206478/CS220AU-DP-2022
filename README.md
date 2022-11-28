@@ -26,7 +26,8 @@ How to use this GitHub repository as a template for your submission, including h
 
 ## Log
 
-- 2022-10-01 my research question will be on A.I. and the existential risk they pose on humanity
+- 2022-11-18 i've added information to the website
+- 2022-11-01 my research question will be on A.I. and the existential risk they pose on humanity
 - 2022-10-25 now have a basic knowledge of how to use Github
 - 2022-10-18 Created Private-notes repositries, created a folder within private-notes, files within folder were index, project and permanant. 
 
