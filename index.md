@@ -1,4 +1,4 @@
-# The Existential Risk that A.I can potentially have on the Human Race
+# The Existential Risk that A.I. can potentially have on the Human Race
 
 ![download](https://user-images.githubusercontent.com/116067403/204344399-5b308eca-caf3-4996-b68f-f084de2fbca3.jpg)
 
@@ -12,5 +12,6 @@
 
 ![most-innovative-companies-ai-machine-learning-update](https://user-images.githubusercontent.com/116067403/204500610-8fc72223-816b-4323-800d-c62757898673.jpg)
 
+## Existential risk that A.I. pose to humanity
 
-
+- A.I. has the potential to be a great asset for humanity, if implemented correctly then it will 
