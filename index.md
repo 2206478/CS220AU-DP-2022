@@ -8,6 +8,6 @@
 
 ## So what is an A.I.?
 
-- A.I. stands for Arteficial Intelligence, it is in theory many lines of code written by humans to be as smart as humans however in reality A.I. can be less smart or as depicted in the media, smarter than humans.  
+- A.I. stands for Arteficial Intelligence, it is in theory the human brain digitised and used by machines to be as smart as humans however in reality A.I. can be less smart or as commonly depicted in the media, smarter than humans.  
 
 
