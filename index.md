@@ -10,4 +10,7 @@
 
 - A.I. stands for Arteficial Intelligence, it is in theory the human brain digitised and used by machines to be as smart as humans however in reality A.I. can be less smart or as commonly depicted in the media, smarter than humans.  
 
+![most-innovative-companies-ai-machine-learning-update](https://user-images.githubusercontent.com/116067403/204500610-8fc72223-816b-4323-800d-c62757898673.jpg)
+
+
 
