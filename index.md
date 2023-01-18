@@ -35,8 +35,6 @@ Herald,D will arteficial intelligence ever live up to its hype, https://user-ima
 
 Artificial intelligence, https://user-images.githubusercontent.com/116067403/213243745-1d11c148-46a5-4d7d-9fe1-a9d0bd0b5f57.jpg (accessed: 24 October 2022)
 
-116067403/213243745-1d11c148-46a5-4d7d-9fe1-a9d0bd0b5f57.jpg
-
 Conn,A. (2015) Benefits and Risks of Arteficial Intelligence. https://futureoflife.org/ai/benefits-risks-of-artificial-intelligence/ (Accessed: 30 December 2022)
 
 
