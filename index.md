@@ -13,7 +13,6 @@
 
 - A.I. stands for Arteficial Intelligence, it is in theory the human brain digitised and used by machines to be as smart as humans however in reality A.I. can be less smart or as commonly depicted in the media, smarter than humans.  
 
-![most-innovative-companies-ai-machine-learning-update](https://user-images.githubusercontent.com/116067403/204500610-8fc72223-816b-4323-800d-c62757898673.jpg)
 
 ## The usefullness that A.I. can pose to humanity
 
@@ -25,12 +24,15 @@
 
 ## The Existential risk that A.I. can pose to humanity
 
-- When media looks at a.i. they believe that they will gain self-consciousness and seek out to destroy us, an example is Skynet from the Terminator franchise. If a.i. were to gain self-consciousness and wanted to eliminate us for whatever reasons that maybe, then they would be a serious a threat. Without proper failsafe built into them they could do a number of things from accessing nuclear codes and using our own nukes to destroy us to targeting our economy by ruining the currency of each nation which cause society to collapse. 
-
+- When media looks at a.i. they believe that they will gain self-consciousness and seek out to destroy us, an example is Skynet from the Terminator franchise. If a.i. were to gain self-consciousness and wanted to eliminate us for whatever reasons that maybe, then they would be a serious a threat, however, all issues with an A.I. would lie in its programming. When designing an A.I. for a task it is imperative that it is designed to be aligned with our interests otherwise it may take destructive measures which could impact humanity as it would likely lack empathy, this has been a major cause for concerns in recent years. A great example is the Lethal autonomous weapons system which uses an A.I. to select, target and eliminate human targets without human intervention, if there was an error in that A.I's code a number of things could go wrong, for example carryig out a mission with civillians in the line of fire. 
+- Another example could be an A.I. is tasked with terraforming an area it, the activities the A.I. carries out could cause extreme damage to our ecosystem and when humanity attempts to stop it we would be percieved as a threat and it would develop countermeasures against us.
+- These example demonstrate that concerns around A.I. should be competence not malevolence.
 
 
 
 ## Refernce list 
-- Herald,D will arteficial intelligence ever live up to its hype, https://user-images.githubusercontent.com/116067403/204500610-8fc72223-816b-4323-800d-c62757898673.jpg, (accessed: 24 October 2022)
+- Herald,D will arteficial intelligence ever live up to its hype, https://user-images.githubusercontent.com/116067403/204500610-8fc72223-816b-4323-800d-c62757898673.jpg (accessed: 24 October 2022)
+
+Conn,A . (2015) Benefits and Risks of Arteficial Intelligence. https://futureoflife.org/ai/benefits-risks-of-artificial-intelligence/ (Accessed: 
 
 
