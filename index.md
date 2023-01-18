@@ -7,11 +7,9 @@
 - Existential risk can be described as a world altering event that can potentially lead to the destruction of civillisation and the human race. A good example of this could be an asteroid colliding with the planets surface and destroying it. This website aims to look at the existential risk potentially imposed by A.I. When looking to the future and the potential of a.i.  there are two ideas that come to mind. The first is that a.i. will be incorporated into businesses which will cause a change in society and have a profound affect on our digital identities. The second is that they will revolt against humanity and destroy us, this is usually what is portrayed by the media.
 
 
-- photo
-
 ## So what is an A.I.?
 
-- A.I. stands for Arteficial Intelligence, it is in theory the human brain digitised and used by machines to be as smart as humans however in reality A.I. can be less smart or as commonly depicted in the media, smarter than humans.  
+- A.I. stands for Arteficial Intelligence, it is multpile line sof code created by humans to be as smart as humans however in reality A.I. can be less smart or as commonly depicted in the media, smarter than humans, although this is yet to happen.  
 
 
 ## The usefullness that A.I. can pose to humanity
@@ -31,7 +29,6 @@
 
 
 ## Refernce list 
-Herald,D will arteficial intelligence ever live up to its hype, https://user-images.githubusercontent.com/116067403/204500610-8fc72223-816b-4323-800d-c62757898673.jpg (accessed: 24 October 2022)
 
 Artificial intelligence, https://user-images.githubusercontent.com/116067403/213243745-1d11c148-46a5-4d7d-9fe1-a9d0bd0b5f57.jpg (accessed: 24 October 2022)
 
