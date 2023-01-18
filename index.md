@@ -4,7 +4,7 @@
 
 ## What is Existential Risk? 
 
-- Existential risk can be described as a world altering event that can potentially lead to the destruction of civillisation and the human race. A good example of this could be an asteroid colliding with the planets surface and destroying it. This website aims to look at the existential risk potentially imposed by A.I. When looking to the future and the potential of a.i.  there are two ideas that come to mind. The first is that a.i. will be incorporated into businesses which will cause a change in society and have a profound affect on our digital identities. The second is that they will revolt against humanity and destroy us, this is usually what is portrayed by the media.
+- Existential risk can be described as a world altering event that can potentially lead to the destruction of civillisation and the human race. A good example of this could be an asteroid colliding with the planets surface and destroying it. This website aims to look at the existential risk potentially imposed by a.i.. When looking to the future and the potential of a.i. there are two ideas that come to mind. The first is that a.i. will be incorporated into businesses which will cause a change in society and have a profound affect on our digital identities. The second is that they will revolt against humanity and destroy us, this is usually what is portrayed by the media.
 
 
 ## So what is an A.I.?
@@ -24,13 +24,13 @@ This is an exampe of a very basic VR map
 
 ## The Existential risk that A.I. can pose to humanity
 
-- When media looks at a.i. they believe that they will gain self-consciousness and seek out to destroy us, an example is Skynet from the Terminator franchise. If a.i. were to gain self-consciousness and wanted to eliminate us for whatever reasons that maybe, then they would be a serious a threat, however, all issues with an A.I. would lie in its programming. When designing an A.I. for a task it is imperative that it is designed to be aligned with our interests otherwise it may take destructive measures which could impact humanity as it would likely lack empathy, this has been a major cause for concerns in recent years. A great example is the Lethal autonomous weapons system which uses an A.I. to select, target and eliminate human targets without human intervention, if there was an error in that A.I's code a number of things could go wrong, for example carryig out a mission with civillians in the line of fire. 
-- Another example could be an A.I. is tasked with terraforming an area it, the activities the A.I. carries out could cause extreme damage to our ecosystem and when humanity attempts to stop it we would be percieved as a threat and it would develop countermeasures against us.
-- These example demonstrate that concerns around A.I. should be competence not malevolence.
+- When media looks at a.i. they believe that they will gain self-consciousness and seek out to destroy us, an example is Skynet from the Terminator franchise. If a.i. were to gain self-consciousness and wanted to eliminate us for whatever reasons that maybe, then they would be a serious a threat, however, all issues with an a.i. would lie in its programming. When designing an a.i. for a task it is imperative that it is designed to be aligned with our interests otherwise it may take destructive measures which could impact humanity as it would likely lack empathy, this has been a major cause for concerns in recent years. A great example is the Lethal autonomous weapons system which uses an A.I. to select, target and eliminate human targets without human intervention, if there was an error in that A.I's code a number of things could go wrong, for example carryig out a mission with civillians in the line of fire. 
+- Another example could be an A.I. is tasked with terraforming an area, if the activities that A.I. was carrying out was causing extreme damage to our ecosystem then when humanity attempts to stop it we would be percieved as a threat and it would develop countermeasures against us.
+- These example demonstrate that concerns around A.I. should be competence of the creator not malevolence of the creation.
 
 ## Conclusion
 
-- In conclusion, if A.I. becomes advanced enough to be intergrated into bussiness to help them be run more effeciently then society will become less work focused impacting our digital identites. Furtheremore, the risks surrounding A.I. stems from how well they are designed to be aligned with our interests and so if an A.I becomes dangerous it's due to human neglact when they're in the coding stage.
+- In conclusion, if A.I. becomes advanced enough to be intergrated into businesses to help them be run more effeciently then society will become less work focused impacting our digital identites. Furtheremore, the risks surrounding A.I. stems from how well they are designed to be aligned with our interests and so if an A.I becomes dangerous it's due to human neglact when they're in the coding stage.
 
 ## Refernce list 
 
