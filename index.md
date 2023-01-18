@@ -30,3 +30,6 @@
 
 
 
+## Refernce list 
+- Herald,D will arteficial intelligence ever live up to its hype, https://user-images.githubusercontent.com/116067403/204500610-8fc72223-816b-4323-800d-c62757898673.jpg, (accessed: 24 October 2022)
+
