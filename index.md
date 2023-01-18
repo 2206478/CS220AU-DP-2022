@@ -25,4 +25,8 @@
 
 ## The Existential risk that A.I. can pose to humanity
 
-- 
+- When media looks at a.i. they believe that they will gain self-consciousness and seek out to destroy us, an example is Skynet from the Terminator franchise. If a.i. were to gain self-consciousness and wanted to eliminate us for whatever reasons that maybe, then they would be a serious a threat. Without proper failsafe built into them they could do a number of things from accessing nuclear codes and using our own nukes to destroy us to targeting our economy by ruining the currency of each nation which cause society to collapse. 
+
+
+
+
