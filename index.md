@@ -16,7 +16,8 @@
 
 - A.I. has the potential to be a great asset for humanity, in the future a.i. could be used to help run businesses at the highest efficiency levels possible, this would have a profound affect on our digital identities. When looking at digital identities it’s good to have a Visitor and Resident map present to have as a physical representation. 
 
--make vr  map
+![image](https://user-images.githubusercontent.com/116067403/213249462-d742ba28-ccf7-46c5-8b48-6dbd5b00b370.png)
+This is an exampe of a very basic VR map
 
 - If a.i. are being used to help run business in the future this would have a massive impact on the institutional/resident part of the v and r map because a.i. can run a business then a lot of work would become automated, this would mean that a large portion of the work force would become redundant. This would cause a massive change in society as a majority of the population no longer has to work, this would affect our digital identities making them more focused around the personal part of the vr map.  
 
