@@ -1,6 +1,6 @@
 # Existential risk that a.i. could potentially have and how they can affect our digital identities
 
-![download](https://user-images.githubusercontent.com/116067403/204344399-5b308eca-caf3-4996-b68f-f084de2fbca3.jpg)
+![artificial_intelligence_benefits_risk](https://user-images.githubusercontent.com/116067403/213243745-1d11c148-46a5-4d7d-9fe1-a9d0bd0b5f57.jpg)
 
 ## What is Existential Risk? 
 
@@ -33,6 +33,8 @@
 ## Refernce list 
 Herald,D will arteficial intelligence ever live up to its hype, https://user-images.githubusercontent.com/116067403/204500610-8fc72223-816b-4323-800d-c62757898673.jpg (accessed: 24 October 2022)
 
-Conn,A . (2015) Benefits and Risks of Arteficial Intelligence. https://futureoflife.org/ai/benefits-risks-of-artificial-intelligence/ (Accessed: 30 December 2022)
+Artificial intelligence, https://user-images.githubusercontent.com/116067403/213243745-1d11c148-46a5-4d7d-9fe1-a9d0bd0b5f57.jpg (accessed: 24 October 2022)
+
+Conn,A. (2015) Benefits and Risks of Arteficial Intelligence. https://futureoflife.org/ai/benefits-risks-of-artificial-intelligence/ (Accessed: 30 December 2022)
 
 
