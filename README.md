@@ -23,6 +23,14 @@ The portfolio you submit needs to contain the following:
 
 ## Log
 
+- 2023-01-18 me and Dylan peer assessed each others work
+- 2023-01-17 added last touches to the website and created a reference list
+- 2023-01-06 looked and added another image to the website
+- 2022-12-30 added more to the website
+- 2022-12-17 created a vr map and added it to the website
+- 2022-12-03 added more content to the website
+- 2022-11-25 found images and added them to the website
+- 2022-11-24 looked for fair use images to use on the website
 - 2022-11-18 i've added information to the website
 - 2022-11-01 my research question will be on A.I. and the existential risk they pose on humanity
 - 2022-10-25 now have a basic knowledge of how to use Github
@@ -30,19 +38,5 @@ The portfolio you submit needs to contain the following:
 
 <br>
 
-## TODO
-### in week 3
-- help students fork the repo and understand its code structure, etc. 
+## TODO  
 
-### in week 4 
-- get to understand Github more
-- have an idea for the research question 
-
-### in week 5
-- finalise idea for reseach question 
-
-### in week 7 
-- start to build my website
-
-### in week 8 
-- Add information to the website
