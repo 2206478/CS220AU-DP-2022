@@ -1,4 +1,4 @@
-# Existential risk that a.i. could potentially have and how they can affect our digital identities
+# Existential risk that A.I. could potentially have and how they can affect our digital identities
 
 ![artificial_intelligence_benefits_risk](https://user-images.githubusercontent.com/116067403/213243745-1d11c148-46a5-4d7d-9fe1-a9d0bd0b5f57.jpg)
 
