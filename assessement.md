@@ -71,7 +71,7 @@ To help measure my progress, I asked another student in my group for feedback on
 | 3.1 |     |     |   o |     |     |
 
 
-Feedback given by: <!-- 2105986 -->
+Feedback given by: 2105986
 
 
 <br>
