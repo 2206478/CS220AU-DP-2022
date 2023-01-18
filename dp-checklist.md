@@ -26,13 +26,5 @@ In the `assessement.md` file
 - [x] I filled in the peer-assessment table for which one student in my group provided feedback for;
 - [x] I familiarised myself with the marking rubric and provided feedback for at least one student in my group.
 
-The student registration number of the student I provided feedback with is:  
-
-<!-- #todo : 
-- delete all unnecessary HTML comments in this file 
-- download this .md file to your computer
-- rename the downloaded file and rename it so that they show your student number e.g. `0610279-dp-checklist.md` 
-- submit this file on FASER
-- relax
--->
+The student registration number of the student I provided feedback with is: 2105986 
 
