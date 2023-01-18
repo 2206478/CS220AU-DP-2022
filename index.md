@@ -2,10 +2,14 @@
 
 ![artificial_intelligence_benefits_risk](https://user-images.githubusercontent.com/116067403/213243745-1d11c148-46a5-4d7d-9fe1-a9d0bd0b5f57.jpg)
 
+## Aims of this website
+
+- This website aims to look at the existential risk potentially imposed by a.i.. When looking to the future and the potential of a.i. there are two ideas that come to mind. The first is that a.i. will be incorporated into businesses which will cause a change in society and have a profound affect on our digital identities. The second is that they will revolt against humanity and destroy us, this is usually what is portrayed by the media.
+
+
 ## What is Existential Risk? 
 
-- Existential risk can be described as a world altering event that can potentially lead to the destruction of civillisation and the human race. A good example of this could be an asteroid colliding with the planets surface and destroying it. This website aims to look at the existential risk potentially imposed by a.i.. When looking to the future and the potential of a.i. there are two ideas that come to mind. The first is that a.i. will be incorporated into businesses which will cause a change in society and have a profound affect on our digital identities. The second is that they will revolt against humanity and destroy us, this is usually what is portrayed by the media.
-
+- Existential risk can be described as a world altering event that can potentially lead to the destruction of civillisation and the human race. A good example of this could be an asteroid colliding with the planets surface and destroying it.
 
 ## So what is an A.I.?
 
