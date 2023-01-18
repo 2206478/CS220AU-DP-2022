@@ -27,7 +27,9 @@ This is an exampe of a very basic VR map
 - Another example could be an A.I. is tasked with terraforming an area it, the activities the A.I. carries out could cause extreme damage to our ecosystem and when humanity attempts to stop it we would be percieved as a threat and it would develop countermeasures against us.
 - These example demonstrate that concerns around A.I. should be competence not malevolence.
 
+## Conclusion
 
+- In conclusion, if A.I. becomes advanced enough to be intergrated into bussiness to help them be run more effeciently then society will become less work focused impacting our digital identites. Furtheremore, the risks surrounding A.I. stems from how well they are designed to be aligned with our interests and so if an A.I becomes dangerous it's due to human neglact when they're in the coding stage.
 
 ## Refernce list 
 
